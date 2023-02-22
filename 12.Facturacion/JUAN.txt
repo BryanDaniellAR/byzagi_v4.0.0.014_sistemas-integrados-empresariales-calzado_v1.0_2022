@@ -1,0 +1,11 @@
+Facturación termina cuanto se emite el documento 
+Información de pago tiene que ir a cobranza
+Cuanto se imite la factura se tiene que registrar en el sistema, enviar a SUNAT para ello hay un proveedor de 
+facturación electronica que está certificado por sunat para que se pueda emitir mediante ese proveedor las 
+facturas electronicas y queden colgadas en la base de datos de la SUNAT.
+Ya no se debe de registrar el documento
+//Cuando termina el módulo de facturación? Se registra la factura en el sistema y se tiene que registrarlo en
+la plataforma para registrar las facturas para la SUNAT, se exporta y se coloca en el módulo de de registro de
+facturación a la SUNAT 
+La nota de crédito y débito se envía después de registrarse en el sistema va al modulo de contabilidad 
+y tesorería porqué esa nota va a aumentar o disminuir el valor que se va a cobrar, cuentas por cobrar
